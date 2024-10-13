@@ -1,4 +1,4 @@
-# h8Palette
+# h8Palette GDScript
 
 <img align="right" src="paletteicon.png" width="125">
 
@@ -29,7 +29,7 @@ If you've downloaded this manually, do the following:
 
 - Ensure you're using **Godot 4.2 or above**
 - Find the `addons` folder in your project files, or create it if it doesn't exist yet.
-- Move the folder `addons/Godot.h8.Palette` to your project's `addons` folder.
+- Move the folder `addons/GDScript.h8.Palette` to your project's `addons` folder.
 - Enable Little Camera Preview under `Project > Project Settings > Plugins`
 
 ## Licence
